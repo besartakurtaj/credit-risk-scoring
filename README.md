@@ -18,15 +18,7 @@ The goal is to predict the likelihood of a loan default based on borrower data. 
 
 ## Repository Structure
 
-├── data/
-│ └── raw/credit_risk_dataset.csv # Raw dataset file (not included)
-├── 01_data_preprocessing_and_split.ipynb
-├── 02_model_training_with_imputation.ipynb
-├── 03_model_evaluation.ipynb
-├── 04_feature_importance_visualization.ipynb
-├── processed_data.pkl # Processed dataset saved as pickle (optional)
-├── model.pkl # Trained model saved as pickle (optional)
-├── scaler.pkl # Scaler object saved as pickle (optional)
+![image](https://github.com/user-attachments/assets/984aa3a1-63ae-4078-80b6-bb2733062167)
 
 ---
 
