@@ -18,7 +18,7 @@ The goal is to predict the likelihood of a loan default based on borrower data. 
 
 ## Repository Structure
 
-![image](https://github.com/user-attachments/assets/984aa3a1-63ae-4078-80b6-bb2733062167)
+![image](https://github.com/user-attachments/assets/f005736c-2486-4d13-9312-7979c1c9f3b6)
 
 ---
 
